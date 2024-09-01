@@ -22,7 +22,7 @@ const projects = [
       {name: 'Tailwind.CSS'},
     ],
 
-    image: '/assets/work/thumb1.png',
+    image: './assets/work/thumb1.png',
     live: "",
     github: '',
   },
@@ -38,7 +38,7 @@ const projects = [
       {name: 'JavaScript'},
     ],
 
-    image: '/assets/work/thumb2.png',
+    image: './assets/work/thumb2.png',
     live: "",
     github: '',
   },
@@ -54,7 +54,7 @@ const projects = [
       {name: 'React.JS'},
     ],
 
-    image: '/assets/work/thumb3.png',
+    image: './assets/work/thumb3.png',
     live: "",
     github: '',
   },
@@ -70,7 +70,7 @@ const projects = [
       {name: 'Firebase'},
     ],
 
-    image: '/assets/work/thumb4.jpeg',
+    image: './assets/work/thumb4.jpeg',
     live: "",
     github: '',
   },
