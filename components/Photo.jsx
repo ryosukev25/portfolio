@@ -12,7 +12,7 @@ const Photo = () => {
             initial={{opacity: 0}} animate={{opacity: 1, transition: {delay: 2.4, duration: 0.2, ease: "easeIn"}}}
             
             className="w-[150px] h-[150px] xl:w-[350px] xl:h-[350px]">
-                <Image src="../assets/adit2.jpg" priority quality={100} fill alt="" className="object-cover rounded-full"/>
+                <Image src="./assets/adit2.jpg" priority quality={100} fill alt="" className="object-cover rounded-full"/>
             </motion.div>
         </motion.div>
     </div>
